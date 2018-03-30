@@ -1,5 +1,5 @@
 {
-    "name": "bsormagec/binary-driver",
+    "name": "sormagec/binary-driver",
     "type": "library",
     "description": "A set of tools to build binary drivers",
     "keywords": ["binary", "driver"],
